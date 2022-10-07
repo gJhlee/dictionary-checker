@@ -1,0 +1,24 @@
+{
+  "name": "dictionary-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo This is a static template, there is no bundler or bundling involved!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gJhlee/dictionary-checker.git"
+  },
+  "keywords": [],
+  "author": "Ives van Hoorne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gJhlee/dictionary-checker/issues"
+  },
+  "homepage": "https://github.com/gJhlee/dictionary-checker#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
